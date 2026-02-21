@@ -1,5 +1,5 @@
 # client_connect.py - Latest version
 0.0.1
 
-# client_connect_ws.py - Latest version
+# client_connect_rest.py - Latest version
 0.1.0
